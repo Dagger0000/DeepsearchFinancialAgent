@@ -1,0 +1,12 @@
+langchain_community
+yfinance
+langchain_huggingface
+langchain
+huggingface_hub
+pandas
+numpy
+requests
+datetime
+faiss-cpu
+langchain_core
+python-dotenv
